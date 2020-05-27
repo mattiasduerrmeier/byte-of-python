@@ -229,7 +229,7 @@ Le livre est même utilisé par la NASA! Il est utilisé au [Jet Propulsion Labo
 
 ## Cours en Universités
 
-Ce livre est ou à été utilisé comme support dans différentes institutions:
+Ce livre est ou à été utilisé comme support de cours dans différentes institutions:
 
 - «&nbsp;Principes des langages de programmation&nbsp;» [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html)
 - «&nbsp;Concepts de base de l'informatique&nbsp;» [Université de California, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
@@ -249,8 +249,8 @@ Ce livre est sous la licence [Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cela signifie que:
 
-- Vous êtes libre de partager et donc copier, distribuer et transmettre ce livre.
-- Vous êtes libre de retoucher et adapter ce livre (en particulier translations)
+- Vous êtes libre de partager, c'est-à-dire de copier, distribuer et transmettre ce livre
+- Vous êtes libre de modifier et adapter ce livre (en particulier pour le traduire)
 - Vous êtes libre de l'utiliser à des fins commerciales
 
 Notez cependant:
