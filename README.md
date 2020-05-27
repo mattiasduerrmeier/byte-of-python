@@ -250,7 +250,7 @@ Ce livre est sous la licence [Creative Commons Attribution-ShareAlike 4.0 Intern
 Cela signifie que:
 
 - Vous êtes libre de partager, c'est-à-dire de copier, distribuer et transmettre ce livre
-- Vous êtes libre de modifier et adapter ce livre (en particulier pour le traduire)
+- Vous êtes libre de modifier et adapter ce livre (en particulier si vous souhaitez le traduire)
 - Vous êtes libre de l'utiliser à des fins commerciales
 
 Notez cependant:
