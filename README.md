@@ -4,7 +4,7 @@
 
 ## Pour Python version 3
 
-Ce livre vous apprendra à utiliser Python version 3. Il vous aidera également a utiliser la version 2 de Python, plus ancienne et plus courante.
+Ce livre vous apprendra à utiliser Python version 3. Il vous aidera également à utiliser la version 2 de Python, plus ancienne et plus courante.
 
 ## Qui lit A Byte of Python? {#who-reads-bop}
 
