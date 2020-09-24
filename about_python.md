@@ -4,7 +4,7 @@ Python est un des rares langages à la fois _simple_ et _puissant_.  Vous serez 
 
 L'introduction officielle à Python est :
 
-> Python est un langage de programmation facile à apprendre et puissant. Il possède des structures de données de haut niveau et une approche simple mais efficace à la programmation orientée objet. La syntaxe élégante et la typographie dynamique de Python, avec la nature interprétée du langage, en font un langage idéal pour l'écriture de script et le développement rapide d'applications dans de nombreux domaines sur la plupart des plate-formes.
+> Python est un langage de programmation facile à apprendre et puissant. Il possède des structures de données de haut niveau et une approche simple mais efficace à la programmation orientée objet. La syntaxe élégante et le typage dynamique de Python, avec la nature interprétée du langage, en font un langage idéal pour l'écriture de script et le développement rapide d'applications dans de nombreux domaines sur la plupart des plate-formes.
 
 Je parlerai plus en détail de ces fonctionnalités dans le paragraphe suivant.
 
